@@ -1,10 +1,10 @@
 const menunya = (prefix) => {
-return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
+return`━━֍  〔 🤖 _*BY ${botName}*_〕
 ──────────────────
 ◈ _Nama Owner : ${NamaOwner}_
 ◈ _Nomor Owner : ${NomorOwner}_
-️ YT : Zeil Botz JANGAN LUPA SUBSCRIBE ️
-️ NOMOR : 081376900646 HEMAT JAN LUPA️S
+️ YT : RizzkyBotzz ️
+️ NOMOR : 085876810596 HEMAT JAN LUPA️S
 〽️ IG : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 〽️ TIK TOK : ( PERBAIKAN !! ) JAN LUPA FOLLOW 〽️
 
@@ -327,7 +327,7 @@ return`━━֍  〔 🪀 _*BY ${botName}*_ 🪀〕
 ║│${prefix}herolist「 Mobile Legends 」
 ║│${prefix}googlesearch 「 Terserah 」
 ╠══════════════════════╡
-║     By *ZeilBotz*
+║     By *Rizki Muhammad Adam*
 ╚══════════════════════╡`
 }
 exports.menunya = menunya
